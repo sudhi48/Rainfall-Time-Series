@@ -3,3 +3,4 @@ seaborn
 pandas
 ipykernel
 scikit-learn
+statsmodels
